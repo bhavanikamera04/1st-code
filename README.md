@@ -1,3 +1,3 @@
-# 1st-code
-this is my 1st Git Repository 
+ 1st-code
+this is my 1st Git Repository ,
 Author - BHAVANI 
